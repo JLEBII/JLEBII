@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="left">Hey There👋</h1>
+<h2 align="left">Hey There👋</h2>
 
 ###
 
@@ -12,16 +10,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Tools</h3>
+<h3 align="left">🛠 My Tools :</h3>
 
 ###
 
@@ -90,8 +79,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jlb24&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jlb24&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jlb24&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="220" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Jlb24&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
