@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Jack, a senior in High school based in the United States, and a Game Dev, 3D Artist and UI Designer who specializes in Cs. I make it my mission to create products that are both functional and inspiring to young developers like myself.<br><br>- 🔭 I’m working as a Student, Startup Owner, and Investor<br>- 📚 I'm currently learning UX and Javascript<br>- ⚡ In my free time I tinker with servers and their hardware</p>
+<p align="left">I’m Jack, a human based in the United States, and a Game Dev, 3D Artist and UI Designer who specializes in Cs. I make it my mission to create products that are both functional and inspiring to young developers like myself.<br><br>- 🔭 I’m working as a Student, Startup Owner, and Investor<br>- 📚 I'm currently learning UX and Javascript<br>- ⚡ In my free time I tinker with servers and their hardware</p>
 
 ###
 
